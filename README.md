@@ -1,5 +1,5 @@
 # Arka-Kumar-Akuli
-Aspiring toData Analyst passionate about transforming raw numbers into meaningful business insights. Skilled in Power BI, MS Excel, and Python, I specialize in building dashboards, automating reports, and analyzing data for better decision-making. Always eager to learn, share knowledge, and solve real-world problems with data.
+Aspiring to Data Analyst passionate about transforming raw numbers into meaningful business insights. Skilled in Power BI, MS Excel, and Python, I specialize in building dashboards, automating reports, and analyzing data for better decision-making. Always eager to learn, share knowledge, and solve real-world problems with data.
 # Hi 👋 I'm Arka Akuli  
 
 ### 📊 Data to Decisions  
@@ -15,6 +15,7 @@ I’m passionate about **continuous learning, problem-solving, and collaborating
 - 🤝 I’m looking to collaborate on **open-source projects, internships, and case studies** requiring reporting, data cleaning, or predictive analytics.
 
 - 
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+[Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+[Promt Engireering] (https://img.shields.io/badge/prompt%20BI-F2C811?style=for-the-badge&logo=Promt Engireering&logoColor=black)

@@ -13,9 +13,13 @@ I’m passionate about **continuous learning, problem-solving, and collaborating
 ## 🚀 About Me  
 - 🔭 I’m currently working on projects involving **Power BI dashboards, Excel automation, and Python-based analysis** to improve data storytelling & visualization.  
 - 🤝 I’m looking to collaborate on **open-source projects, internships, and case studies** requiring reporting, data cleaning, or predictive analytics.
+- ## 📑 Excel & Advanced Excel  
+-📚Strong command of **Excel & Advanced Excel** for data analysis, reporting, and automation.  
 
-- 
-[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-[Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-[Promt Engireering] (https://img.shields.io/badge/prompt%20BI-F2C811?style=for-the-badge&logo=Promt Engireering&logoColor=black)
+--
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=markdown&logoColor=white)  
+

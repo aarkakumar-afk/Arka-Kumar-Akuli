@@ -13,7 +13,7 @@ I’m passionate about **continuous learning, problem-solving, and collaborating
 ## 🚀 About Me  
 - 🔭 I’m currently working on projects involving **Power BI dashboards, Excel automation, and Python-based analysis** to improve data storytelling & visualization.  
 - 🤝 I’m looking to collaborate on **open-source projects, internships, and case studies** requiring reporting, data cleaning, or predictive analytics.
-- ## 📑 Excel & Advanced Excel  
+- 📑 Excel & Advanced Excel  
 -📚Strong command of **Excel & Advanced Excel** for data analysis, reporting, and automation.  
 
 
@@ -23,11 +23,14 @@ I’m passionate about **continuous learning, problem-solving, and collaborating
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=markdown&logoColor=white)  
 
+
 ## 🌐 Socials  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-akuli)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarkakumar@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arka-akuli)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arkaakuli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arkaakuli) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamarkaakuli)  
+
 

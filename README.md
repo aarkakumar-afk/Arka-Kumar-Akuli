@@ -14,7 +14,7 @@ I’m passionate about **continuous learning, problem-solving, and collaborating
 - 🔭 I’m currently working on projects involving **Power BI dashboards, Excel automation, and Python-based analysis** to improve data storytelling & visualization.  
 - 🤝 I’m looking to collaborate on **open-source projects, internships, and case studies** requiring reporting, data cleaning, or predictive analytics.
 - 📑 Excel & Advanced Excel  
--📚Strong command of **Excel & Advanced Excel** for data analysis, reporting, and automation.  
+- 📚Strong command of **Excel & Advanced Excel** for data analysis, reporting, and automation.  
 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
